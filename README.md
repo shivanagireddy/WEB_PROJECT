@@ -1,5 +1,3 @@
-# Assignment5
-
 DreamTravels application is designed to help you plan your trips in a better way from booking flight tickets to booking hotels around the world.
 This application is designed to streamline the travel planning experience, offering users a seamless and straightforward solution for online travel service bookings, ensuring a stress-free and efficient process.
 
